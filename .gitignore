@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Obsidian — local UI state, rewritten every session
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
